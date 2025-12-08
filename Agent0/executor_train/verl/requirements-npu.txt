@@ -19,3 +19,4 @@ torchdata
 einops
 qwen_vl_utils
 torchvision==0.20.1
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
